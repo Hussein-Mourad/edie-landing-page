@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://edie-homepage-challenge.netlify.app/">
+    <a href="https://edie-landing-page-demo.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Hussein-Mourad/devchallenges/tree/main/Responsive-web-design/public/edie-homepage-master-1">
+    <a href="https://github.com/Hussein-Mourad/edie-landing-page/">
       Solution
     </a>
     <span> | </span>
